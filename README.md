@@ -7,7 +7,7 @@
 
 ## 🔧 Skills Snapshot
 
-- **Programming:** Python, C++, SQL, Java (basic)
+- **Programming:** Python, C++, SQL, Java
 - **Core CS:** Data Structures & Algorithms
 - **Machine Learning & Deep Learning:**  
   Classification, Regression, CNN, RNN, LSTM, scikit-learn
