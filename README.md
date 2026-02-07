@@ -6,15 +6,15 @@
 ---
 
 ## 🔍 About Me
-I build **real-world Generative AI systems**, not just demos.
+I design and build **production-style Generative AI systems**, not just demos.
 
 My work focuses on:
 - **Agentic AI systems** (multi-step reasoning & orchestration using LangChain and LangGraph)
 - **Retrieval-Augmented Generation (RAG)** for document and knowledge intelligence
 - **LLM application development** using modern GenAI stacks
-- **LLM fine-tuning fundamentals** (Supervised Fine-Tuning – SFT, LoRA-based adaptation)
+- **Hands-on experience with LLM fine-tuning fundamentals** (Supervised Fine-Tuning – SFT, LoRA-based adaptation)
 - **Prompt engineering, evaluation, and workflow design**
-- **Hands-on internship and project-driven learning**
+- **Internship- and project-driven learning with real-world use cases**
 
 Currently seeking **entry-level / internship roles** in:
 > Generative AI · LLM Engineering · AI/ML · Python-based AI Systems
@@ -35,14 +35,14 @@ Currently seeking **entry-level / internship roles** in:
 
 ### Generative AI & LLMs
 - **Large Language Models (LLMs)**
-- **Prompt Engineering**
 - **Supervised Fine-Tuning (SFT)**
 - **LoRA-based adaptation**
+- Prompt Engineering
 - HuggingFace Transformers
 - Groq LLaMA
 
 ### Agentic AI
-- **ReAct Agents**
+- **ReAct agents**
 - Multi-tool agents
 - Tool calling
 - **LLMMathChain**
@@ -109,7 +109,7 @@ Currently seeking **entry-level / internship roles** in:
 🔗 https://github.com/k-satyam215/URL-content-summarization  
 
 - LLM-based summarization of long-form content
-- Practical GenAI use-case
+- Practical GenAI use case
 
 ---
 
