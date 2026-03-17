@@ -27,7 +27,7 @@ Currently seeking entry-level / internship roles in:
 
 ### Programming & Core CS
 
-* Python, SQL, C++, Java
+* Python, SQL, Java
 * Data Structures & Algorithms
 
 ### Machine Learning & NLP
