@@ -25,7 +25,7 @@ Currently seeking entry-level / internship roles in:
 ## 🧠 Core Skills Snapshot
 
 ### Programming & Core CS
-* **Python**, SQL, Java
+* **Python (Async)**, SQL, Java
 * Data Structures & Algorithms
 
 ### Machine Learning & NLP
