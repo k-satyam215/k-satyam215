@@ -1,58 +1,59 @@
-# Hi 👋 I'm Satyam Kumar
+# 👋 Hi, I'm Satyam Kumar
 
-🎓 MCA (Computer Science) Student — Indian Institute of Technology (IIT) Patna  
-🤖 Generative AI / LLM Engineer focused on Agentic AI systems, RAG pipelines, and applied LLM engineering  
+🎓 MCA (Computer Science) — Indian Institute of Technology Patna  
+🤖 Agentic AI / LLM Engineer focused on building real-world Generative AI systems  
 
 ---
 
-## 🔍 About Me
+## 🚀 About Me
 
-I design and build practical Generative AI systems that simulate real-world engineering workflows, including autonomous reasoning, structured decision pipelines, and tool-augmented intelligence.
+I build practical Generative AI systems that go beyond chatbots — focusing on reasoning, structured workflows, and real-world problem-solving.
 
-My core focus areas:
+My work involves:
 
-• Agentic AI systems with multi-step reasoning using LangChain & LangGraph  
-• Retrieval-Augmented Generation (RAG) for document intelligence and knowledge systems  
-• End-to-end LLM application development using modern GenAI stacks  
-• LLM adaptation fundamentals (SFT, LoRA, DPO)  
-• Prompt engineering, reasoning optimization, and evaluation workflows  
-• Real-world internship-driven AI system development  
+- Designing **agentic AI systems** using LangGraph and LangChain  
+- Building **Retrieval-Augmented Generation (RAG)** pipelines for grounded responses  
+- Developing **LLM-powered applications** with structured workflows and evaluation  
+- Implementing **multi-step reasoning systems** with tool usage and control flows  
+- Applying **MCP (Model Context Protocol)** for structured agent communication  
+- Deploying and managing systems using **Docker and CI/CD pipelines (GitHub Actions)**  
 
-Currently seeking opportunities in:  
-**Generative AI · LLM Engineering · AI/ML · Applied Python Systems**
+I focus on building **reliable, explainable, and production-oriented AI systems**.
 
 ---
 
 ## 🧠 Core Skills
 
-### Programming & CS Fundamentals
-• Python • SQL • Java  
-• Data Structures & Algorithms  
+### 💻 Programming
+- Python, SQL, Java  
+- Data Structures & Algorithms  
 
-### Machine Learning & NLP
-• Classification, Regression  
-• CNN, RNN, LSTM (Conceptual Understanding)  
-• Text Processing, Embeddings, Semantic Search  
-• Neural Networks  
+### 🤖 Generative AI & LLM Engineering
+- Prompt Engineering, LLM Evaluation  
+- Retrieval-Augmented Generation (RAG)  
+- Advanced RAG (HyDE, MMR, Re-ranking)  
+- Hugging Face Transformers, Groq APIs  
 
-### Generative AI & LLM Engineering
-• Prompt Engineering • LLM Evaluation  
-• Advanced RAG (HyDE, MMR, Re-ranking)  
-• LLM Adaptation (SFT, LoRA, DPO)  
-• Hugging Face Transformers  
-• Groq Inference APIs  
+### ⚡ Agentic AI Systems
+- LangGraph (multi-agent workflows)  
+- LangChain orchestration  
+- MCP (Model Context Protocol)  
+- Tool Calling, ReAct Agents  
+- Structured reasoning workflows  
 
-### Agentic AI Systems
-• LangGraph Agentic Workflows  
-• LangChain Orchestration  
-• ReAct Agents • Multi-Tool Reasoning  
-• Tool Calling • Reflection Patterns  
+### 🧠 Machine Learning & NLP
+- Text Processing, Embeddings, Semantic Search  
+- Classification, Regression  
 
-### Frameworks & Databases
-• FastAPI • Streamlit • Docker • Git  
-• PyTorch • LangSmith  
-• ChromaDB • FAISS • Pinecone  
-• PostgreSQL • SQLite  
+### 🛠️ Backend & DevOps
+- FastAPI, Streamlit  
+- Docker, Docker Compose  
+- Git, GitHub  
+- GitHub Actions (CI/CD pipelines)  
+
+### 🗄️ Databases
+- ChromaDB, FAISS  
+- PostgreSQL, SQLite  
 
 ---
 
@@ -61,91 +62,76 @@ Currently seeking opportunities in:
 ### 🐞 RepoMind AI — Autonomous Software Engineering Agent  
 🔗 https://github.com/k-satyam215/repomind-ai  
 
-• Built an autonomous developer agent using LangGraph simulating full engineering workflows  
-• Implemented self-correction loop with reflection + AST-based validation in Docker sandbox  
-• Integrated trajectory memory via ChromaDB improving fix accuracy by ~70%  
-• Reduced token usage through smart file prioritization strategy  
+- Built an autonomous system to analyze repositories, detect bugs, generate fixes, and create pull requests  
+- Implemented multi-agent workflows using LangGraph and MCP for structured reasoning and coordination  
+- Designed validation loops to ensure reliable fix generation  
+- Containerized services using Docker and orchestrated workflows with Docker Compose  
+- Integrated persistent vector memory (ChromaDB) for improved context reuse  
 
 ---
 
 ### 💼 AI Career Copilot — Agentic GenAI System  
 🔗 https://github.com/k-satyam215/ai-career-copilot  
 
-• Modular agentic system for resume evaluation, ATS validation, and interview preparation  
-• Advanced RAG pipeline using HyDE + MMR for job-resume alignment  
-• Hybrid scoring engine combining rule-based + semantic LLM reasoning  
-• Built during AICTE + IBM SkillsBuild internship  
+- Built a system for resume evaluation, ATS validation, and interview preparation  
+- Implemented hybrid RAG (dense + keyword retrieval) for job-resume matching  
+- Designed agent-based pipelines for scoring, feedback, and question generation  
+- Structured multi-step workflows for controlled LLM reasoning  
 
 ---
 
-### 💬 Conversational RAG Q&A System  
+### 💬 Conversational RAG System (PDF Q&A)  
 🔗 https://github.com/k-satyam215/RAG-Q-A-Conversation-with-pdf  
 
-• Conversational document intelligence with history-aware query reformulation  
-• Multi-PDF ingestion with semantic retrieval pipeline  
+- Developed a document Q&A system with chat history awareness  
+- Implemented semantic retrieval using embeddings and vector databases  
+- Built interactive UI using Streamlit  
 
 ---
 
-### 🌐 AI Research Agent with Web Search  
+### 🌐 AI Research Agent  
 🔗 https://github.com/k-satyam215/Chat-with-search-on-web  
 
-• ReAct-style research agent integrating DuckDuckGo, Wikipedia & ArXiv  
-• Tool-augmented reasoning for grounded information retrieval  
+- Built a tool-augmented agent using web search APIs  
+- Implemented ReAct-style reasoning for query handling  
 
 ---
 
-### 🧮 Text-to-Math Problem Solver  
-🔗 https://github.com/k-satyam215/Text-To-Math-Problem-Solver  
-
-• Step-wise reasoning pipeline using LLMMathChain  
-
----
-
-### 📝 URL Content Summarization System  
-🔗 https://github.com/k-satyam215/URL-content-summarization  
-
-• Summarization workflow for long-form web content & documentation  
-
----
-
-### 🤖 Groq LLM Chatbot  
-🔗 https://github.com/k-satyam215/Q-A-Chatboat  
-
-• Low-latency LLM assistant optimized using Groq inference  
-
----
-
-## 🎓 Internship Experience
+## 💼 Internship Experience
 
 ### AI/ML Intern — Generative AI  
-Edunet Foundation (IBM SkillsBuild | AICTE)
+**Edunet Foundation (IBM SkillsBuild | AICTE)**  
 
-• Built AI Career Copilot simulating recruiter reasoning workflows  
-• Designed hybrid RAG pipelines (dense + sparse retrieval)  
-• Developed multi-agent orchestration using LangGraph  
+- Built AI Career Copilot system during internship  
+- Worked on RAG pipelines and agent-based workflows  
+- Gained hands-on experience in LLM-based system design  
+
+---
 
 ### Virtual Cloud Intern  
-Microsoft Elevate (AICTE Initiative)
+**Microsoft Elevate (AICTE Initiative)**  
 
-• Learned Azure cloud infrastructure for AI workloads  
-• Implemented best practices in compute deployment & resource optimization  
+- Learned fundamentals of Azure cloud infrastructure  
+- Explored deployment concepts for scalable systems  
 
 ---
 
 ## 🏆 Certifications
 
-• Ultimate RAG Bootcamp  
-• Oracle OCI AI Foundations Associate  
-• Generative AI with LangChain & Hugging Face  
-• Google AI Essentials  
-• Generative AI with AWS — Analytics Vidhya  
-• Kaggle AI Agents Program  
-• IBM SkillsBuild AI Fundamentals  
+- Oracle Cloud Infrastructure AI Foundations  
+- Google AI Essentials  
+- Kaggle AI Agents Program  
+- Generative AI with LangChain & Hugging Face  
+- AI/ML Internship (IBM SkillsBuild)
 
 ---
 
-## 🔗 Connect With Me
+## 📫 Connect With Me
 
-LinkedIn → https://linkedin.com/in/satyam-kumar-266b38254  
-GitHub → https://github.com/k-satyam215  
-Email → satyam.ai.dev@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/satyam-kumar-266b38254  
+- 💻 GitHub: https://github.com/k-satyam215  
+- 📧 Email: satyam.ai.dev@gmail.com  
+
+---
+
+⭐ *Focused on building real-world AI systems with structured reasoning and practical impact.*
